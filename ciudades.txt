@@ -1,8 +1,12 @@
 ## Este es un texto de prueba
-
 Nueva York
 Irun
+Palencia
+Irun2
 Donosti
 Renteria
 Hondarribia
+Madrid
+Paris
+Continentes de estas ciudades: ...
 Andoni
